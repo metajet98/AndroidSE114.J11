@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<item
+    android:id="@+id/home_search"
+    android:icon="@drawable/search"
+    android:title="Home"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    />
+
+<item
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/top_trend"
+    android:icon="@drawable/toptrend"
+    android:title="Top Trend"
+
+    />
+<item
+    android:id="@+id/offline"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:icon="@drawable/offline"
+    android:title="Offline"
+    />
+
+
+
+</menu>
